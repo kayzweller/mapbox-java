@@ -4,7 +4,7 @@ Mapbox welcomes participation and contributions from everyone.
 
 ### master
 
-### 5.4.0 - July 29, 2020
+### 5.4.1 - July 29, 2020
 
 - [geocoding] Correct handling of a single element batch geocoding response (#1160)
 
